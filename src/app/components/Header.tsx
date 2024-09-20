@@ -8,11 +8,11 @@ const Header = () => {
         
         {/* Text content section */}
         <div className="md:w-2/3 text-center md:text-left">
-          <h1 className="text-5xl mb-10">Hello! I'm Hariz, a Junior Web Developer</h1>
+          <h1 className="text-5xl mb-10">Hello! I`&aposm Hariz, a Junior Web Developer</h1>
           <p className="text-lg my-8 text-justify">
             Aspiring Full-Stack Developer | Passionate about Front-End and Back-End Development <br /> <br />
-            Welcome to my portfolio! I’m a dedicated student at the University of Indonesia, embarking on an exciting journey in tech. 
-            With a passion for both front-end and back-end development, I’m eager to collaborate on meaningful projects and contribute to the ever-evolving world of web development.
+            Welcome to my portfolio! I`&aposm a dedicated student at the University of Indonesia, embarking on an exciting journey in tech. 
+            With a passion for both front-end and back-end development, I`&aposm eager to collaborate on meaningful projects and contribute to the ever-evolving world of web development.
           </p>
         </div>
 
