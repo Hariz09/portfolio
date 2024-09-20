@@ -67,7 +67,7 @@ const About = () => {
                 <p className="text-base">{item.years}</p>
                 {item.web !== "" && (
                 <button
-                  className="px-2 py-1 mt-2 text-sm text-white font-bold rounded-lg shadow-lg bg-gradient-to-br from-green-400 to-blue-600 hover:bg-gradient-to-bl transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-blue-500/50 hover:shadow-lg flex items-center"
+                  className="px-2 py-1 mt-4 text-sm text-white font-bold rounded-lg shadow-lg bg-gradient-to-br from-green-400 to-blue-600 hover:bg-gradient-to-bl transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-blue-500/50 hover:shadow-lg flex items-center"
                   onClick={() => window.open(item.web, "_blank")}
                 >
                   <TbWorldWww className="mr-2" />
