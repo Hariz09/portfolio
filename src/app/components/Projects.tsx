@@ -22,7 +22,7 @@ const Projects = () => {
       title: "My Portfolio",
       description: "My portfolio website using React and Tailwind CSS",
       imageUrl: "./Project_3_Portofolio.png",
-      code: "https://github.com/Hariz09/react-portfolio",
+      code: "https://github.com/Hariz09/portfolio",
       languageIcons: ["Logo_react.png", "Logo_nextjs.ico", "Logo_Typescript.svg.png"],
     },
     {
